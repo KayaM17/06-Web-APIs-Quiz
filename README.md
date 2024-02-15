@@ -48,6 +48,6 @@ Licensed under the MIT License
 
 ## Repository's
 
-GitHub Repository URL: 
+GitHub Repository URL: https://github.com/KayaM17/06-Web-APIs-Quiz
 
-Deployed Web Application URL: 
+Deployed Web Application URL: https://kayam17.github.io/06-Web-APIs-Quiz/
