@@ -97,7 +97,7 @@ function endQuiz() {
 // Save the score to local storage and move to the high scores page
 // Delete the last high score if there are more than 10 high scores in local storage to save memory.
 function saveScore() {
-    const initials = initialsInput.value;
+    const initials = initialsInput.value.trim();
     if (initials === '') {
         alert('Please enter your initials.');
         return;
@@ -115,8 +115,12 @@ function saveScore() {
         highScores.pop();
     }
     localStorage.setItem('highScores', JSON.stringify(highScores));
-    window.location.href = 'highscores.html';
+    window.location.assign('highscores.html');
+
+
 } 
+
+
 
 // Event listeners
 startButton.addEventListener('click', startQuiz);

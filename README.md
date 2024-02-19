@@ -20,6 +20,9 @@ SO THAT I can gauge my progress compared to my peers
 *  Created a js folder for quetions to make it more clearer.
 *  Added screenshot of quiz laptop view.
 *  Added URL of repo & references.
+*  Added a gitignore folder.
+*  Created a new folder to store all js files.
+*  Created a function to show the highstore.
 
 
 
@@ -34,7 +37,9 @@ Note: This is a screenshot of the deployed quiz on Laptop screen.
 
 ![Alt text](./assets/images/Web%20APis%20quiz%20screenshot.png)
 
+Note: This is a screenshot of the higjscore after quiz taken on Laptop screen.
 
+![alt text](<assets/images/highscores. screenshot.png>)
 
 ## References
 
