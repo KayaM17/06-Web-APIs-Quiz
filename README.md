@@ -1,58 +1,33 @@
-# Unit 06-Web-APIs-Quiz
+# Web APIs Quiz
 
-Coding quiz with multiple-choice questions on JavaScript fundamentals.
-
-
-## Description
-
-* To build a timed coding quiz with multiple-choice questions. This app will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean, polished, and responsive user interface. This week’s coursework has taught you all the skills you need to succeed in this challenge.
+Welcome to my Web APIs Quiz project! I'm excited to share how I built this interactive quiz to test users' knowledge of web APIs using HTML, CSS, JavaScript, and an external API.
 
 
-## User Story
+## Introduction
 
-```
-AS A coding boot camp student
-I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
-SO THAT I can gauge my progress compared to my peers
-```
+In this project, I developed a Web APIs Quiz to provide users with an engaging way to learn about various web APIs and their functionalities. As someone passionate about web development and education, I wanted to create an interactive tool that helps users deepen their understanding of this important topic.
 
-## Summary of Changes
-*  Created a js folder for quetions to make it more clearer.
-*  Added screenshot of quiz laptop view.
-*  Added URL of repo & references.
-*  Added a gitignore folder.
-*  Created a new folder to store all js files.
-*  Created a function to show the highstore.
+## Technologies Used
 
+- **HTML:** Used to structure the content and layout of the quiz.
+- **CSS:** Utilised for styling the user interface and enhancing visual appeal.
+- **JavaScript:** Implemented for quiz logic, user interaction, and dynamic content generation.
+- **External API:** Integrated an external API to retrieve quiz questions dynamically and provide users with up-to-date content.
 
+## Development Process
 
-## Mock-Up
+I started by designing the layout and user interface of the quiz using HTML and CSS. I aimed for a clean and intuitive design that guides users through the quiz seamlessly.
 
-Note: The following animation demonstrates the application functionality:
+One of the main challenges I encountered during development was integrating the external API to retrieve quiz questions dynamically. I had to handle asynchronous requests and parse the response data effectively to display questions and answer choices accurately.
 
-![Animation of code quiz. Presses button to start quiz. Clicks the button for the answer to each question, displays if answer was correct or incorrect. Quiz finishes and displays high scores. User adds their intials, then clears their intials and starts over.](./assets/images/08-web-apis-challenge-demo.gif)
+Another challenge was implementing the quiz logic and scoring system using JavaScript. I needed to ensure that the quiz progresses smoothly, tracks user responses, and calculates the final score correctly.
 
+## Future Improvements
 
-Note: This is a screenshot of the deployed quiz on Laptop screen.
+In the future, I plan to enhance the Web APIs Quiz by adding more quiz questions covering a wider range of web APIs and related topics. I also aim to improve the user interface and experience based on user feedback and incorporate features such as a timer and high score leaderboard.
 
-![Alt text](./assets/images/Web%20APis%20quiz%20screenshot.png)
+## Conclusion
 
-Note: This is a screenshot of the higjscore after quiz taken on Laptop screen.
+Developing this Web APIs Quiz was a rewarding experience that allowed me to combine my passion for web development with my desire to educate and engage users. I'm proud of the final product and hope that it helps users deepen their understanding of web APIs in an enjoyable way.
 
-![alt text](<assets/images/highscores. screenshot.png>)
-
-## References
-
-W3 Schools - Tutorials
-
-Youtube - Tutorials
-
-## License 
-
-Licensed under the MIT License
-
-## Repository's
-
-GitHub Repository URL: https://github.com/KayaM17/06-Web-APIs-Quiz
-
-Deployed Web Application URL: https://kayam17.github.io/06-Web-APIs-Quiz/
+If you have any feedback or suggestions for improvement, please feel free to get in touch. Thank you for exploring my Web APIs Quiz project!
